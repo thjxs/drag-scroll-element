@@ -1,0 +1,12 @@
+{
+  "name": "@thjxs/scroll",
+  "version": "0.1.0",
+  "description": "drag scroll",
+  "main": "index.js",
+  "author": "thjxs",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": "thjxs/drag-scroll-element",
+  "license": "MIT"
+}
